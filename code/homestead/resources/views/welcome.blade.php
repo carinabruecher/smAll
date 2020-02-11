@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    SM-Haustiere
+                    Test 123 BSP
                 </div>
 
                 <div class="links">
