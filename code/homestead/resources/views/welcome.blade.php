@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Test 123 BSP
+                    SM-All Welcome
                 </div>
 
                 <div class="links">
